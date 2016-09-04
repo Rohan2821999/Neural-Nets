@@ -7,8 +7,8 @@ import numpy as np
 xinput = np.zeros((126,19))
 yinput = np.zeros((126,18))
 
-data = np.genfromtxt(r'DataSet_Add_Sub.csv',delimiter = '|' ,names = True, dtype = None,)
-
+data = np.genfromtxt(r'DataSet(Type1).csv',delimiter = '|' ,names = True, dtype = None,)
+print(data[0][0][1])
 x_input = tf.placeholder(tf.float32,shape = [126,19], name = "X_Inputs")
 y_input = tf.placeholder(tf.float32,shape = [126,18], name = "Y_Labels") 
 
