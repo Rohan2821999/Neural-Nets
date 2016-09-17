@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25">
+	<circle cx="14.0" cy="9.5" r="1.0" fill="blue" />
+	<circle cx="20.0" cy="3.5" r="1.5" fill="blue" />
+	<circle cx="5.0" cy="3.5" r="1.0" fill="blue" />
+	<circle cx="16.0" cy="16.0" r="0.5" fill="blue" />
+	<circle cx="8.5" cy="20.5" r="2.0" fill="blue" />
+	<circle cx="2.0" cy="15.0" r="1.5" fill="blue" />
+	<circle cx="20.5" cy="22.0" r="1.5" fill="blue" />
+	<circle cx="22.5" cy="14.5" r="1.0" fill="blue" />
+</svg>

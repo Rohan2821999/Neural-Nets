@@ -6,7 +6,7 @@ bgcolor = (0, 0, 0)
 colors = [(255, 255, 255), (255,0,0)]
 
 ns = range(1, 10)
-box = (128, 128)
+box = (50, 50)
 shape = 'circle'
 area = 0.1
 

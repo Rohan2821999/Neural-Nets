@@ -1,7 +1,7 @@
 import math
 import random
 import os
-import Image, ImageDraw, ImageFilter, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 import copy
 from euclid import euclid
 import datetime
