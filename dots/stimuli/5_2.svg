@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25">
-	<circle cx="22.0" cy="13.5" r="1.0" fill="blue" />
-	<circle cx="3.5" cy="21.5" r="1.0" fill="blue" />
-	<circle cx="13.5" cy="6.5" r="2.0" fill="blue" />
-	<circle cx="11.0" cy="17.5" r="2.5" fill="blue" />
-	<circle cx="21.5" cy="3.5" r="1.5" fill="blue" />
+	<circle cx="3.5" cy="18.0" r="2.0" fill="blue" />
+	<circle cx="15.5" cy="3.0" r="2.0" fill="blue" />
+	<circle cx="13.5" cy="15.0" r="2.5" fill="blue" />
+	<circle cx="22.0" cy="20.5" r="0.5" fill="blue" />
+	<circle cx="3.0" cy="4.5" r="2.0" fill="blue" />
 </svg>
